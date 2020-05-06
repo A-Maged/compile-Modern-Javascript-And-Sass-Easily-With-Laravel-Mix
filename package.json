@@ -9,6 +9,8 @@
         "watch": "yarn dev -- --watch"
     },
     "devDependencies": {
+        "browser-sync": "^2.26.7",
+        "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^7.0.2",
         "glob": "^7.1.6",
         "laravel-mix": "^5.0.4",
